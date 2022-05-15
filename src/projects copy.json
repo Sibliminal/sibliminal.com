@@ -1,0 +1,70 @@
+[
+    {
+        "id": 1,
+        "project": "Woodland Consulting LLC",
+        "github": "https://github.com/SMKrizan/WoodlandConsultingLLC",
+        "live": "https://woodland-consulting.herokuapp.com/",
+        "image": "WoodlandConsulting.png",
+        "description": "WoodlandConsulting LLC commisioned out team to build their website. We worked with the owner Jessica Walthers to identify her needs and brand & researched competitors to identify features we cound add to set her business apart. The final website features an intuitive admin dashboard for retrieving messages and updating information on the site, while the client side display's her work with a focus on the breadth and depth of her experience.",
+        "about": "MERN PWA with ReactSpring, JWT and Hidden Admin Backend",
+        "focus":"MERN Stack" 
+    },
+    {
+        "id": 2,
+        "project": "TableTop Rulers",
+        "github": "https://github.com/cgsdesign/table-top-resource",
+        "live": "https://cgsdesign.github.io/table-top-resource/",
+        "image": "DnD.png",
+        "description": "This Dungeons & Dragons one stop shop provides everything from rules and resources to world building, dice rolling, and scheduling tools needs for GM play.",
+        "focus": "Front End"
+    },
+    {
+        "id": 3,
+        "project": "TableTop Rulers - Map",
+        "github": "https://github.com/cgsdesign/table-top-resource",
+        "live": "https://cgsdesign.github.io/table-top-resource/maps.html",
+        "image": "dndmap.png",
+        "description": "A fun interactive map for live game play and game play prep made with JS HTMP and CSS.",
+        "about": "Using the map section you will be able to download maps or go to another page where you can build your map. Design your map any way you would like with monsters, and terrain. You can then download your map or play live on the page with your players.",
+        "focus": "Front End Interactive"
+    },
+    {
+        "id": 4,
+        "project": "HowTo.Help",
+        "github": "https://github.com/geigea84/how-to-dot-help",
+        "live": "https://how-to-dot-help.herokuapp.com/",
+        "image": "HowToHelp.png",
+        "description": "How-To-Dot-Help is a website portal connecting potential volunteers with smaller organizations that are looking for the additional help. Users can learn about connected non-for-profits, create bios and send their information to NFPs they want to voluteer for. The site features a MySQL database and two portals based on admin and general user logins.",
+        "about": "How-To-Dot-Help is a website portal connecting potential volunteers with smaller organizations that are looking for the additional help. On this website, users will be able to create an account protected by modern security features and indicate which organizations they may be interested in volunteering for. On the other side of the platform the staff of How To Dot Help will connect these prospective volunteers with the organization via phone, email, or text message depending on the method selected by the volunteer.",
+        "focus": "Full Stack"
+    },
+    {
+        "id": 5,
+        "project": "Budget Tracker Conversion",
+        "github": "https://github.com/cgsdesign/budget-tracker",
+        "live": "https://floating-fortress-49753.herokuapp.com/",
+        "image": "budgettracker.png",
+        "description": "Worked with IndexedDB, Service-Worker, Manifest, MongoDB Atlas and Heroku to make the existing BudgetTracker code into a live PWA with offline capabilities hosted on Heroku.",
+        "about": "For this project I worked with IndexedDB, Service-Worker, Manifest, MongoDB Atlas and Heroku to make the existing BudgetTracker code into a live PWA with offline capabilities hosted on Heroku.",
+        "focus":"PWA with IndexedDB" 
+    },
+    {
+        "id": 6,
+        "project": "Daily Planner",
+        "github": "https://github.com/cgsdesign/DailyPlanner",
+        "live": "https://cgsdesign.github.io/DailyPlanner/",
+        "image": "dailyPlanner.png",
+        "description": "A Simple site to help you schedule your day.",
+        "focus": "Front End"
+    },
+    {
+        "id": 7,
+        "project": "A Basic Portfolio",
+        "github": "https://github.com/cgsdesign/portfolio",
+        "live": "https://cgsdesign.github.io/portfolio/",
+        "image": "basicportfolio.png",
+        "description": "Simple CSS and HTML site, because sometimes that is all you need.",
+        "focus":"Front End" 
+    }
+       
+]
