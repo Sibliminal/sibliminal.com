@@ -1,0 +1,29 @@
+{
+	"folders": [
+		{
+			"path": "../.."
+		},
+		{
+			"path": "../../../zookeepr"
+		},
+		{
+			"path": "../../../QuizQ"
+		},
+		{
+			"path": "../../../robot-gladiators"
+		},
+		{
+			"path": "../../../WoodlandConsultingLLC"
+		},
+		{
+			"path": "../../../Book-Search"
+		},
+		{
+			"path": "../../../shop-shop"
+		},
+		{
+			"path": "../../../how-to-dot-help"
+		}
+	],
+	"settings": {}
+}
